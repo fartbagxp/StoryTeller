@@ -9,3 +9,6 @@ This is a git [repository](https://github.com/josephmisiti/awesome-machine-learn
 
 ## Random Forest and K-Means
 Tutorial on running through [Random Forest and K-Means](http://markedmondson.me/intro-to-machine-learning-with-web-analytics-random-forests-and-k-means).
+
+
+## Tradeoffs in Underfitting and overfitting http://blog.cambridgecoding.com/2016/03/24/misleading-modelling-overfitting-cross-validation-and-the-bias-variance-trade-off/
