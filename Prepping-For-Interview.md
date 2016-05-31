@@ -1,6 +1,4 @@
-
-
-## Interview Practice:
+# Interview Practice
 
 [What to study](https://www.quora.com/How-can-one-be-well-prepared-to-answer-data-structure-algorithm-questions-in-interviews)
 

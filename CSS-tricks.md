@@ -1,3 +1,3 @@
 # Flexbox
 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[CSS Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
